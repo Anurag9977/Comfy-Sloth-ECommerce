@@ -1,0 +1,12 @@
+@import url("https://api.fontshare.com/v2/css?f[]=chillax@400&f[]=nunito@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .align-section-center {
+    @apply mx-auto px-8 md:w-[90%] lg:w-[85%] xl:w-[82%];
+  }
+}

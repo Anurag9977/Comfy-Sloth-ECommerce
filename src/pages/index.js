@@ -1,0 +1,9 @@
+export { default as MainLayout } from "./MainLayout";
+export { default as Home } from "./Home";
+export { default as About } from "./About";
+export { default as Products } from "./Products";
+export { default as SingleProduct } from "./SingleProduct";
+export { default as Cart } from "./Cart";
+export { default as Checkout } from "./Checkout";
+export { default as Confirmation } from "./Confirmation";
+export { default as Error } from "./Error";

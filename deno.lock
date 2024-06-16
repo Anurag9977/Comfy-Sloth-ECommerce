@@ -1,0 +1,39 @@
+{
+  "version": "3",
+  "remote": {
+    "https://edge.netlify.com/": "ff84a16f192fdb43db8b9dff869889f555c05857d075044d2a7cfa54c283a0a0",
+    "https://edge.netlify.com/bootstrap/config.ts": "0aa0a225d978b89e0e62cbd853701605199e7a84095e55eeb70147faf1a24803",
+    "https://edge.netlify.com/bootstrap/context.ts": "8f99269eeeeccf9b852e6089cc648c962a0ea20b2198b8b38b38e3b2ce2b9143",
+    "https://edge.netlify.com/bootstrap/cookie.ts": "8b0baae708989ca183c6f3b4ab3d029e6abcbc2e43f93edeb0ff447b3bbc3a05",
+    "https://edge.netlify.com/bootstrap/edge_function.ts": "b8253e86aa83c67341f5cfedeba5049d77fbf84dcab7eceff7566b7728ae9b39",
+    "https://edge.netlify.com/bootstrap/globals.ts": "38f9e0be6c2c78206bf14d2387d41964d38bbe81644b3668e203c6f6473408a7"
+  },
+  "workspace": {
+    "packageJson": {
+      "dependencies": [
+        "npm:@auth0/auth0-react@^2.2.4",
+        "npm:@reduxjs/toolkit@^2.2.5",
+        "npm:@tailwindcss/typography@^0.5.13",
+        "npm:@types/react-dom@^18.2.22",
+        "npm:@types/react@^18.2.66",
+        "npm:@vitejs/plugin-react@^4.2.1",
+        "npm:autoprefixer@^10.4.19",
+        "npm:axios@^1.7.2",
+        "npm:daisyui@^4.11.1",
+        "npm:eslint-plugin-react-hooks@^4.6.0",
+        "npm:eslint-plugin-react-refresh@^0.4.6",
+        "npm:eslint-plugin-react@^7.34.1",
+        "npm:eslint@^8.57.0",
+        "npm:netlify-cli@^17.27.0",
+        "npm:postcss@^8.4.38",
+        "npm:react-dom@^18.2.0",
+        "npm:react-icons@^5.2.1",
+        "npm:react-redux@^9.1.2",
+        "npm:react-router-dom@^6.23.1",
+        "npm:react@^18.2.0",
+        "npm:tailwindcss@^3.4.3",
+        "npm:vite@^5.2.0"
+      ]
+    }
+  }
+}
