@@ -1,5 +1,7 @@
 [build]
-command = "npm run build"
+command = |
+"mkdir -p build"
+"npm run build"
 publish = "/build"
 functions = "./functions"
 
